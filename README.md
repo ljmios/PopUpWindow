@@ -1,2 +1,3 @@
 # PopUpWindow
 iOS版本PopUpWindow分享控件
+这是一个从底部弹出的空间，类似很多软件中的分享控件
